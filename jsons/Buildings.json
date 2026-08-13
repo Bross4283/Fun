@@ -1,19 +1,16 @@
 [
       {
         "name": "Boost Misc",
-        "uniqueTo": "Greece",
-        "gold": 1000,
+        "uniqueTo": "Aztecs",
+        "gold": 100,
         "science": 1,
         "faith": 1,
         "culture": 1,
         "production": 1,
         "food": 1,
         "cost": 1,
-        "uniques": ["New [Military] units start with [99999] XP [in this city]",
+        "uniques": ["New [Military] units start with [1000] XP [in this city]",
         "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
-"[-99]% construction time for [All] improvements",
-"All newly-trained [Military] units [in this city] receive the [Ignore terrain cost] promotion",
-"All newly-trained [Military] units [in this city] receive the [[Janissary] ability] promotion",
-"All newly-trained [Military] units [in this city] receive the [Rejuvenation] promotion"]
-      }
+"[-99]% construction time for [All] improvements"
+}
 ]
