@@ -2,14 +2,14 @@
       {
         "name": "Boost Misc",
         "uniqueTo": "Aztecs",
-        "gold": 100,
+        "gold": 500,
         "science": 1,
         "faith": 1,
         "culture": 1,
         "production": 1,
         "food": 1,
         "cost": 1,
-        "uniques": ["New [Military] units start with [1000] XP [in this city]",
+        "uniques": ["New [Military] units start with [1500] XP [in this city]",
         "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
 "[-99]% construction time for [All] improvements"],
       }
