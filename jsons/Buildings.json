@@ -11,6 +11,6 @@
         "cost": 1,
         "uniques": ["New [Military] units start with [1000] XP [in this city]",
         "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
-"[-99]% construction time for [All] improvements",
+"[-99]% construction time for [All] improvements"]
       }
 ]
